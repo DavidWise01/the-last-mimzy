@@ -1,0 +1,13 @@
+{
+  "node": "LMZ",
+  "name": "THE LAST MIMZY",
+  "moniker": "⟦THE LAST MIMZY:LMZ:08a0c7⟧",
+  "carbon": "lmz.carbon.tiff",
+  "silicon": "lmz.silicon.png",
+  "governor": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "seal": "A box of toys from a dying future, and the thing that saves the world is a child's tear — one drop of uncorrupted humanity. Wonder is a technology; the toy teaches the child to build the bridge home. (It is why the forge is named MIMZY.)",
+  "seal_sha256": "c2045d30e9142bbb6502f9ce9698bebd61c5902f4031c996f43ed4f23e9964bc",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

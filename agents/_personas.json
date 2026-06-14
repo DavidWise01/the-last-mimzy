@@ -1,0 +1,146 @@
+[
+  {
+    "slug": "emma-wilder",
+    "name": "Emma Wilder",
+    "epithet": "the one who listens",
+    "emergence": "ethereal",
+    "kind": "carbon",
+    "actor": "Rhiannon Leigh Wryn",
+    "moniker": "⟦Emma Wilder:LMZ:39bbf2⟧"
+  },
+  {
+    "slug": "noah-wilder",
+    "name": "Noah Wilder",
+    "epithet": "the boy who builds the bridge",
+    "emergence": "natural",
+    "kind": "carbon",
+    "actor": "Chris O'Neil",
+    "moniker": "⟦Noah Wilder:LMZ:a525ea⟧"
+  },
+  {
+    "slug": "jo-wilder",
+    "name": "Jo Wilder",
+    "epithet": "the mother who notices",
+    "emergence": "natural",
+    "kind": "carbon",
+    "actor": "Joely Richardson",
+    "moniker": "⟦Jo Wilder:LMZ:e9e5d2⟧"
+  },
+  {
+    "slug": "david-wilder",
+    "name": "David Wilder",
+    "epithet": "the father catching up",
+    "emergence": "natural",
+    "kind": "carbon",
+    "actor": "Timothy Hutton",
+    "moniker": "⟦David Wilder:LMZ:146c3e⟧"
+  },
+  {
+    "slug": "larry-white",
+    "name": "Larry White",
+    "epithet": "the science teacher",
+    "emergence": "natural",
+    "kind": "carbon",
+    "actor": "Rainn Wilson",
+    "moniker": "⟦Larry White:LMZ:419c6c⟧"
+  },
+  {
+    "slug": "naomi-schwartz",
+    "name": "Naomi Schwartz",
+    "epithet": "the one who reads the mandala",
+    "emergence": "spiritual",
+    "kind": "carbon",
+    "actor": "Kathryn Hahn",
+    "moniker": "⟦Naomi Schwartz:LMZ:de1747⟧"
+  },
+  {
+    "slug": "agent-broadman",
+    "name": "Agent Nathaniel Broadman",
+    "epithet": "the law that misreads it",
+    "emergence": "natural",
+    "kind": "carbon",
+    "actor": "Michael Clarke Duncan",
+    "moniker": "⟦Agent Nathaniel Broadman:LMZ:eafa7e⟧"
+  },
+  {
+    "slug": "the-intel-scientist",
+    "name": "The Intel Scientist",
+    "epithet": "Mimzy is made of Intel",
+    "emergence": "electrical",
+    "kind": "carbon",
+    "actor": "Brian Greene",
+    "moniker": "⟦The Intel Scientist:LMZ:c70b36⟧"
+  },
+  {
+    "slug": "mimzy-the-rabbit",
+    "name": "Mimzy",
+    "epithet": "the teaching toy from the future",
+    "emergence": "ethereal",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦Mimzy:LMZ:4bf70d⟧"
+  },
+  {
+    "slug": "the-spinners",
+    "name": "The Spinners",
+    "epithet": "levitating force-field stones",
+    "emergence": "electrical",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦The Spinners:LMZ:6afbe8⟧"
+  },
+  {
+    "slug": "the-green-rectangle",
+    "name": "The Green Bridge-Rectangle",
+    "epithet": "the teleporter of light",
+    "emergence": "electrical",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦The Green Bridge-Rectangle:LMZ:053ef1⟧"
+  },
+  {
+    "slug": "the-conch",
+    "name": "The Conch",
+    "epithet": "commands the spiders",
+    "emergence": "electrical",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦The Conch:LMZ:b78378⟧"
+  },
+  {
+    "slug": "the-bridge-and-blackout",
+    "name": "The Bridge & the Blackout",
+    "epithet": "half a state goes dark",
+    "emergence": "electrical",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦The Bridge & the Blackout:LMZ:619f67⟧"
+  },
+  {
+    "slug": "the-sri-yantra",
+    "name": "The Sri Yantra",
+    "epithet": "the mandala that recurs",
+    "emergence": "spiritual",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦The Sri Yantra:LMZ:e679ef⟧"
+  },
+  {
+    "slug": "emmas-tear",
+    "name": "Emma's Tear",
+    "epithet": "one drop of uncorrupted humanity",
+    "emergence": "spiritual",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦Emma's Tear:LMZ:df70c8⟧"
+  },
+  {
+    "slug": "the-dying-future",
+    "name": "The Dying Future",
+    "epithet": "the world that reached back",
+    "emergence": "ethereal",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦The Dying Future:LMZ:1cd5f9⟧"
+  }
+]
